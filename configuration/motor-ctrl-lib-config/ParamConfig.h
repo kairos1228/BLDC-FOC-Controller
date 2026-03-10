@@ -232,7 +232,7 @@
 #define MOTOR_POLE                                 (8.0f)                       /*[],  motor poles*/
 #define MOTOR_LQ                                   (600.0E-6f)                  /*[H], Stator q-axis inductance*/
 #define MOTOR_LD                                   (600.0E-6f)                  /*[H], Stator d-axis inductance*/
-#define MOTOR_I_AM                                 (9.0E-3f)                    /*[Wb],  Rotor flux linkage*/
+#define MOTOR_I_AM                                 (6.0E-3f)                    /*[Wb],  Rotor flux linkage*/
 #define MOTOR_R                                    (400.0E-3f)                  /*{Ohm],  stator resistance*/
 #define MOTOR_TORQUE_MAX                           (0.380f)                     /*[Nm],  maximum torque*/
 #define MOTOR_CURRENT_PEAK                         (10.60f)                     /*[A],  peak current rating*/
